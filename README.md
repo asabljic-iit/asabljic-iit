@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Data Science undergrad student currently studying at Illinois Institute of Technology. Mentored teen participants at the Adler on effects of light pollution and helped lead an experiment on identifying sources of light pollution at Palos Preserves. Helen & Robert Adler Award and Dr. Watson Von Math Department Award recipient.
 <!--
 **asabljic-iit/asabljic-iit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
