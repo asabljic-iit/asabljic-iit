@@ -18,19 +18,19 @@ Currently building spatial data models, database pipelines, and full-stack web a
 
 ### Featured Projects
 
-#### [Real Estate Web Application](https://github.com/asabljic-iit/real-estate-app)
-*Full-stack property listing platform built with Python, Flask, and SQL.*
-* Engineered relational PostgreSQL database schemas to optimize property query performance and search latency.
-* Implemented dynamic search filtering and backend request handling.
-
-`Python` `Flask` `SQL` `PostgreSQL`
-
 #### [Adler OpenSpace Explorer Exhibit](https://github.com/asabljic-iit/OpenSpace-Explorer)
 *Interactive space visualization exhibit developed for the Adler Planetarium.*
 * Scripted interactive navigation and astronomy visualization assets using Lua and JavaScript within OpenSpace.
 * Optimized video database media metadata across 50+ records to resolve data inconsistencies.
 
 `Lua` `JavaScript` `OpenSpace` `SQL`
+
+#### [Real Estate Web Application](https://github.com/asabljic-iit/real-estate-app)
+*Full-stack property listing platform built with Python, Flask, and SQL.*
+* Engineered relational PostgreSQL database schemas to optimize property query performance and search latency.
+* Implemented dynamic search filtering and backend request handling.
+
+`Python` `Flask` `SQL` `PostgreSQL`
 
 #### [Flip 7 Card Game Discord Bot](https://github.com/asabljic-iit/flip7-discord-bot)
 *Automated Discord bot managing stateful game rules and interactive UI elements.*
