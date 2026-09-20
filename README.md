@@ -20,10 +20,10 @@ Currently building spatial data models, database pipelines, and full-stack web a
 
 #### [Adler OpenSpace Explorer Exhibit](https://github.com/asabljic-iit/OpenSpace-Explorer)
 *Interactive space visualization exhibit developed for the Adler Planetarium.*
-* Scripted interactive navigation and astronomy visualization assets using Lua and JavaScript within OpenSpace.
+* Scripted interactive web navigation and astronomy visualization assets using Lua and JavaScript within OpenSpace.
 * Optimized video database media metadata across 50+ records to resolve data inconsistencies.
 
-`Lua` `JavaScript` `OpenSpace` `SQL`
+`Lua` `JavaScript` `OpenSpace` `Node.js`
 
 #### [Real Estate Web Application](https://github.com/asabljic-iit/real-estate-app)
 *Full-stack property listing platform built with Python, Flask, and SQL.*
