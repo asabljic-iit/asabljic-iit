@@ -1,17 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Amir Sabljic 👋
 
-Data Science undergrad student currently studying at Illinois Institute of Technology. Developed an interactive astronomy exhibit using OpenSpace at the Adler Planetarium. Mentored first- and second-year college students at Illinois Tech. Helen & Robert Adler Award and Dr. Watson Von Math Department Award recipient.
-<!--
-**asabljic-iit/asabljic-iit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science B.S. & M.A.S. Student** at Illinois Institute of Technology (Minor in Public Policy)
 
-Here are some ideas to get you started:
+Currently building spatial data models, database pipelines, and full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+
+**Languages:** Python • SQL • R • C++ • Java • JavaScript • Lua
+
+**Frameworks & Libraries:** Flask • PostgreSQL • Pandas • NumPy • Matplotlib • Scipy
+
+**Tools & Platforms:** Git • AWS • OpenSpace • CAD / 3D Modeling • Linux
+
+---
+
+### Featured Projects
+
+#### [Real Estate Web Application](https://github.com/asabljic-iit/real-estate-app)
+*Full-stack property listing platform built with Python, Flask, and SQL.*
+* Engineered relational PostgreSQL database schemas to optimize property query performance and search latency.
+* Implemented dynamic search filtering and backend request handling.
+
+`Python` `Flask` `SQL` `PostgreSQL`
+
+#### [Adler OpenSpace Explorer Exhibit](https://github.com/asabljic-iit/OpenSpace-Explorer)
+*Interactive space visualization exhibit developed for the Adler Planetarium.*
+* Scripted interactive navigation and astronomy visualization assets using Lua and JavaScript within OpenSpace.
+* Optimized video database media metadata across 50+ records to resolve data inconsistencies.
+
+`Lua` `JavaScript` `OpenSpace` `SQL`
+
+#### [Flip 7 Card Game Discord Bot](https://github.com/asabljic-iit/flip7-discord-bot)
+*Automated Discord bot managing stateful game rules and interactive UI elements.*
+* Built asynchronous game loop engine in Python using `discord.py` and `unittest`.
+* Deployed as a background `systemd` service on a headless Linux environment.
+
+`Python` `discord.py` `Unit Testing` `Debian Linux`
+
+---
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/amir-sabljic/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asabljic@hawk.illinoistech.edu)
