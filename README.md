@@ -30,7 +30,7 @@ Currently building spatial data models, database pipelines, and full-stack web a
 * Developed a PyTorch pipeline to trace parallel vector fieldlines from NOAA GFS GRIB2 data.
 * Built a JSON-to-OSFLS converter and OSFLS generator for OpenSpace visualization.
 
-`PyTorch` `Lua` `OpenSpace` `NOAA GFS` `FastAPI`
+`PyTorch` `NOAA GFS` `FastAPI` `Lua` `OpenSpace`
 
 #### [Real Estate Web Application](https://github.com/asabljic-iit/real-estate-app)
 *Full-stack property listing platform built with Python, Flask, and SQL.*
