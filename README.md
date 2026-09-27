@@ -25,6 +25,13 @@ Currently building spatial data models, database pipelines, and full-stack web a
 
 `Lua` `JavaScript` `OpenSpace` `Node.js`
 
+#### [NOAA GFS Wind Visualization in OpenSpace](https://github.com/asabljic-iit/OpenSpace-GFS-Wind-Visualization)
+*Multi-altitude atmospheric wind fieldline tracing pipeline for OpenSpace visualization.*
+* Built a PyTorch pipeline to trace parallel vector fieldlines from NOAA GFS GRIB2 data.
+* Scripted a JSON-to-OSFLS converter and OSFLS generator for OpenSpace visualization.
+
+`Python` `Lua` `OpenSpace` `NOAA GFS`
+
 #### [Real Estate Web Application](https://github.com/asabljic-iit/real-estate-app)
 *Full-stack property listing platform built with Python, Flask, and SQL.*
 * Engineered relational PostgreSQL database schemas to optimize property query performance and search latency.
