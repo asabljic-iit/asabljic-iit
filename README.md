@@ -27,8 +27,8 @@ Currently building spatial data models, database pipelines, and full-stack web a
 
 #### [NOAA GFS Wind Visualization in OpenSpace](https://github.com/asabljic-iit/OpenSpace-GFS-Wind-Visualization)
 *Multi-altitude atmospheric wind fieldline tracing pipeline for OpenSpace visualization.*
-* Built a PyTorch pipeline to trace parallel vector fieldlines from NOAA GFS GRIB2 data.
-* Scripted a JSON-to-OSFLS converter and OSFLS generator for OpenSpace visualization.
+* Developed a PyTorch pipeline to trace parallel vector fieldlines from NOAA GFS GRIB2 data.
+* Built a JSON-to-OSFLS converter and OSFLS generator for OpenSpace visualization.
 
 `PyTorch` `Lua` `OpenSpace` `NOAA GFS` `FastAPI`
 
