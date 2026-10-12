@@ -1,18 +1,11 @@
 # Hi there, I'm Amir Sabljic 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/amir-sabljic/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asabljic@hawk.illinoistech.edu)
+
 **Data Science B.S. & M.A.S. Student** at Illinois Institute of Technology (Minor in Public Policy)
 
 Currently building spatial data models, database pipelines, and full-stack web applications.
-
----
-
-### Skills
-
-**Languages:** Python • SQL • R • C++ • Java • JavaScript • Lua
-
-**Frameworks & Libraries:** Flask • PostgreSQL • Pandas • NumPy • Matplotlib • Scipy
-
-**Tools & Platforms:** Git • AWS • OpenSpace • CAD / 3D Modeling • Linux
 
 ---
 
@@ -45,10 +38,3 @@ Currently building spatial data models, database pipelines, and full-stack web a
 * Deployed as a background `systemd` service on a headless Linux environment.
 
 `Python` `discord.py` `Unit Testing` `Debian Linux`
-
----
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/amir-sabljic/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asabljic@hawk.illinoistech.edu)
