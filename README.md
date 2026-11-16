@@ -31,10 +31,3 @@ Currently building spatial data models, database pipelines, and full-stack web a
 * Implemented dynamic search filtering and backend request handling.
 
 `Python` `Flask` `SQL` `PostgreSQL`
-
-#### [Flip 7 Card Game Discord Bot](https://github.com/asabljic-iit/flip7-discord-bot)
-*Automated Discord bot managing stateful game rules and interactive UI elements.*
-* Built asynchronous game loop engine in Python using `discord.py` and `unittest`.
-* Deployed as a background `systemd` service on a headless Linux environment.
-
-`Python` `discord.py` `Unit Testing` `Debian Linux`
