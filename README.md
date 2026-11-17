@@ -9,7 +9,7 @@ Currently building spatial data models, database pipelines, and full-stack web a
 
 ---
 
-<img align="right" width="33%" alt="image" src="https://github.com/user-attachments/assets/02f47742-b1c2-4193-8506-cd44d5f87736" />
+<img align="right" width="33%" alt="Moonlight on Indiana Dunes" src="https://github.com/user-attachments/assets/02f47742-b1c2-4193-8506-cd44d5f87736" />
 
 ### Featured Projects
 
